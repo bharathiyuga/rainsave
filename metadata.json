@@ -1,0 +1,6 @@
+{
+  "name": "RainRevive - Sustainability Platform",
+  "description": "Don't waste a drop. Don't waste a space. Rainwater harvesting potential and dead building revival sustainability platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
